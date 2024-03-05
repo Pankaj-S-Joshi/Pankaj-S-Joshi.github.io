@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "PHY410 - General Relativity, Black holes &
+Cosmology"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Ahmedabad University, School of Arts and Sciences"
+date: 01-01-2023
+location: "Ahmedabad, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course will cover Einstein's theory of gravity, or General Relativity, and the basics of black hole physics and cosmology. The course will include an introduction to tensors and differential geometry, curved spacetime, Einstein equations, the Schwarzschild solution for a star and black hole, gravitational collapse,
+gravitational waves and topics in cosmology. 
