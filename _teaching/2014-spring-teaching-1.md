@@ -12,7 +12,7 @@ location: "Ahmedabad,India"
 title: "PHY715 Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities"
 collection: teaching
 type: "Doctoral course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "Ahmedabad University, School of Arts and Sciences"
 date: 01-01-2023
 location: "Ahmedabad, India"
