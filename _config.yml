@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Pankaj Joshi"
 title_separator          : "-"
 name                     : &name "Pankaj Joshi"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "An eminent research scientist and a scholar, physicist, and expert on cosmology, Professor Pankaj Joshi presently anchors the International Centre for Space and Cosmology at Ahmedabad University as its Director. He was Senior Professor, Department of Astronomy and Astrophysics, Tata Institute of Fundamental Research, Mumbai, before joining the Charotar University of Science and Technology (CHARUSAT) as Provost and as Director for the International Centre for Cosmology (ICC). His research interests are general relativity and cosmology. He has made fundamental contributions to black hole physics and gravitation theory. His extensive analysis of general relativistic gravitational collapse has been widely recognised for providing significant insights into the final fate of massive collapsing stars in the universe, the formation of space-time singularities, and cosmic censorship. Stephen Hawking invited Professor Joshi to Cambridge University, UK, in 1981 and 1986 to work with him under the Nuffield Foundation Fellowship. He has also been acclaimed by Dr APJ Abdul Kalam, Dr R Chidambaram, Dr Jayant Narlikar, and several such leaders in science, as an eminent scientist. "
+url                      : https://pankaj-s-joshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pankaj-s-joshi/pankaj-s-joshi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,33 +22,33 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pankaj Joshi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "International Centre for Space and Cosmology, Ahmedabad University, Navrangpura, Ahmedabad 380009, Gujarat, India."
   employer         : "Ahmedabad University"
   uri              : # URL
   email            : "pankaj.joshi@ahduni.edu.in" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/gr-qc?searchtype=author&query=Joshi,+P+S"
+  googlescholar    : "https://scholar.google.com/citations?user=6TnQ2m8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0463-7554"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Pankaj-Joshi"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Pankaj-S-Joshi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "Pankaj S. Joshi"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
