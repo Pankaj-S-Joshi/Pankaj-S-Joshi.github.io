@@ -1,22 +1,8 @@
----
-title: "PHY715 Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities"
-collection: teaching
-type: "Doctoral course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Ahmedabad University, School of Arts and Sciences"
-date: 01-01-2023
-location: "Ahmedabad,India"
----
+| title | collection | type | permalink | venue | date | location |
+|-------|------------|------|-----------|-------|------|----------|
+| PHY715 Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities | teaching | Doctoral course | /teaching/2014-spring-teaching-1 | Ahmedabad University, School of Arts and Sciences | 01-01-2023 | Ahmedabad, India |
+| General Relativity, Black holes & Cosmology | teaching | Graduate level course | /teaching/2014-spring-teaching-2 | Ahmedabad University, School of Arts and Sciences | 08-01-2022 | Ahmedabad, India |
 
----
-title: "PHY715 Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities"
-collection: teaching
-type: "Doctoral course"
-permalink: 
-venue: "Ahmedabad University, School of Arts and Sciences"
-date: 01-01-2023
-location: "Ahmedabad, India"
----
 
 ---
 title: "General Relativity, Black holes & Cosmology"
