@@ -1,5 +1,5 @@
 ---
-title: "PHY715 Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities"
+title: "Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities"
 collection: teaching
 type: "Doctoral course"
 venue: "Ahmedabad University, School of Arts and Sciences"
