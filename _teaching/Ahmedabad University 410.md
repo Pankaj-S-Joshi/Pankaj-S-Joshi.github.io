@@ -1,5 +1,5 @@
 ---
-title: "PHY410 - General Relativity, Black holes &
+title: "General Relativity, Black holes &
 Cosmology"
 collection: teaching
 type: "Undergraduate Course"
