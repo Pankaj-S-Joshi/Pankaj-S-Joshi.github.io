@@ -2,7 +2,7 @@
 title: "Naked singularities in spherically symmetric inhomogeneous
 Tolman-Bondi dust cloud collapse"
 collection: publications
-date: 1993-15-06
+date: 1993-06-15
 venue: 'Physical Review D'
 permalink: /publication/2009-10-01-paper-title-number-1
 paperurl: 'https://arxiv.org/abs/gr-qc/9303037'
