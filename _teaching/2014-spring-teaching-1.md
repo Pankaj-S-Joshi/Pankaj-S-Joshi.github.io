@@ -1,3 +1,4 @@
+---
 | title | collection | type | permalink | venue | date | location |
 |-------|------------|------|-----------|-------|------|----------|
 | PHY715 Special Topics in Gravitation and Cosmology: Gravitational Collapse, Black Holes, and Spacetime Singularities | teaching | Doctoral course | /teaching/2014-spring-teaching-1 | Ahmedabad University, School of Arts and Sciences | 01-01-2023 | Ahmedabad, India |
@@ -23,5 +24,5 @@
 | Global Aspects in Gravitation | teaching | Course | /teaching/1979-course-1 | UGC Winter School, Saurashtra University | 1979 | Saurashtra University, India |
 | Causality in Spacetimes | teaching | Course | /teaching/1979-course-2 | Raman Research Institute | 1979 | Bangalore, India |
 | Real Analysis, Differential Geometry, Differentiable Manifolds | teaching | Graduate courses | /teaching/1975-78-graduate-courses-1 | Saurashtra University | 1975-78 | India |
-
+---
 
