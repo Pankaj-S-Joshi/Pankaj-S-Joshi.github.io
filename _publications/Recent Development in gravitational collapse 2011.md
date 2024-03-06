@@ -1,7 +1,7 @@
 ---
 title: "Recent developments in gravitational collapse and spacetime singularities"
 collection: publications
-date: 2011
+date: 2011-02-01
 venue: "International Journal of Modern Physics D"
 permalink: 
 paperurl: 'https://arxiv.org/abs/1201.3660'
