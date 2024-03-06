@@ -1,7 +1,7 @@
 ---
 title: "The Final fate of spherical inhomogeneous dust collapse"
 collection: publications
-date: 1996
+date: 1996-01-01
 venue: "Classical and Quantum Gravity"
 permalink: 
 paperurl: 'https://arxiv.org/abs/gr-qc/9409062'
