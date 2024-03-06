@@ -3,7 +3,7 @@ title: "Science, Future and Gandhi"
 collection: talks
 type: "Talk"
 venue: "State Level Workshop organzied by GUJCOST, Gandhibharati and Lokbharati Community Science Center"
-date: 2021-02
+date: 2021-02-01
 location: "India"
 ---
 
