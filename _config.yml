@@ -204,7 +204,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  replace:
     output: true
     permalink: /:collection/:path/
   talks:
