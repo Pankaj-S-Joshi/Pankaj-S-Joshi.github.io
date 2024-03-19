@@ -1,6 +1,6 @@
 ---
-title: "replace item number 1"
-excerpt: "Short description of portfolio item number 1<br/>"
+title: "Article on Primordial Naked Singularity in attention of International Community"
+excerpt: "A recently submitted research paper on the topic of Primordial Naked Singularity caught attention of many scientists across the globe. A very well-known researcher and science communicator, Dr. Sabine Hossenfelder posted a special video dedicated this paper and discussed its importance."
 collection: replace
 ---
 
